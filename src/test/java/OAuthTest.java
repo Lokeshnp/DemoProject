@@ -22,7 +22,7 @@ public class OAuthTest {
     public static void main(String[] args) throws InterruptedException {
         String[] courseTitles={"Selenium Webdriver Java", "Cypress", "Protractor"};
 
-       // System.setProperty("webdriver.chrome.driver","D://chromedriver.exe");
+       // System.setProperty("webdriver.chrome.driver","D:\\chromedriver.exe");
 //        WebDriverManager.chromedriver().setup();
 //        ChromeDriver driver = new ChromeDriver();
 //        driver.get("https://accounts.google.com/o/oauth2/v2/auth?scope=https://www.googleapis.com/auth/userinfo.email&auth_url=https://accounts.google.com/o/oauth2/v2/auth&client_id=692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com&response_type=code&redirect_uri=https://rahulshettyacademy.com/getCourse.php");
